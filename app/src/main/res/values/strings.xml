@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BaseTamplate</string>
+    <string name="create_notification">Create notification</string>
 </resources>
